@@ -10,6 +10,8 @@ La webstory comienza con una invitación a posicionarnos en un mundo de ciencia 
 
 La investigación logra captar el interés desde el título, que remite al lector a uno de los tópicos más comunes en las películas de ciencia ficción: un mundo destruido por diversos motivos. Esto se complementa con la ilustración que acompaña el relato, la cual se transforma en función de lo que se narra. De esta manera, la introducción al contenido resulta literaria y muy similar a la experiencia de adentrarse en una historia de sci-fi, que fue precisamente lo que me cautivó del sitio, que está dirigido a amantes del género. Además, logra que la información no se perciba como algo lejano o frío, sino significativo.
 
+[Puedes descargar el video acá:](imagenes/video%20ilustrativo.mov)
+
 <video src="imagenes/video ilustrativo.mov" controls="controls" width="600" height="400"></video>
 
 Una vez recorrido este camino, se llega a los datos, donde se presenta una variedad de gráficos que comparan las décadas a partir de una idea como “Configuración de la historia marcada por el sufrimiento”. En su mayoría, estos gráficos presentan comparaciones por decenios mediante distribuciones visuales que permiten identificar tendencias generales más que datos exactos. Estos resultan altamente pertinentes al tema y su elaboración fue posible gracias al aporte de la IA que, en este caso particular, resulta enriquecedora para la investigación, en conjunto con el criterio de selección de Alvin Chang.
